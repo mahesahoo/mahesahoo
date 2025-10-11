@@ -33,4 +33,4 @@
 
 **I'm currently seeking collaborations on innovative AI projects. If you have an idea, let's talk!**
 
-📧 **maheswar2003@yahoo.com**
+📧 **maheswar2003@zohomail.in**
