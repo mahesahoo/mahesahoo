@@ -1,15 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:c8b89e&height=160&section=header&text=&fontSize=0" width="100%" />
-
 ### Hey, I'm Mahesh.
 
 I build agentic systems at the intersection of **AI engineering** and **human potential**.
-
-[![Website](https://img.shields.io/badge/mahesahoo.com-1a1a1a?style=flat-square&logo=safari&logoColor=c8b89e)](https://mahesahoo.com)
-[![X](https://img.shields.io/badge/@mahesahoo-1a1a1a?style=flat-square&logo=x&logoColor=c8b89e)](https://x.com/mahesahoo)
-[![LinkedIn](https://img.shields.io/badge/mahesahoo-1a1a1a?style=flat-square&logo=linkedin&logoColor=c8b89e)](https://linkedin.com/in/mahesahoo)
-[![Email](https://img.shields.io/badge/mahesh@mahesahoo.com-1a1a1a?style=flat-square&logo=gmail&logoColor=c8b89e)](mailto:mahesh@mahesahoo.com)
 
 </div>
 
@@ -50,14 +43,6 @@ human optimization
 </tr>
 </table>
 
-#### Selected projects
-
-| | Project | Description | Stack |
-|:---:|---|---|---|
-| ⚡ | **ProductiVize** | AI-powered productivity tracking | `Kotlin` `Jetpack Compose` `Room DB` |
-| 💬 | **TDS Virtual TA** | NLP-based virtual teaching assistant | `Python` `NLP` `RAG` |
-| 🏋️ | **Hypertrophy Systems** | Science-backed 12-week fitness protocol | `Protocol Design` |
-
 #### Tech I use
 
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=c8b89e)
@@ -82,16 +67,6 @@ human optimization
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mahesahoo&theme=darkhub&no-bg=true&no-frame=true&column=6&margin-w=8" />
-
-</div>
-
----
-
-<div align="center">
-
 *Think from first principles, then build deliberately.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:c8b89e&height=100&section=footer&text=&fontSize=0" width="100%" />
 
 </div>
