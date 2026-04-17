@@ -8,10 +8,6 @@ I build agentic systems at the intersection of **AI engineering** and **human po
 
 ---
 
-```
-B.Tech CSE @ ITER SOA  ·  BS in Data Science @ IIT Madras
-```
-
 #### What I work on
 
 <table>
